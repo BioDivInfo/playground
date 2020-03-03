@@ -3,7 +3,7 @@ layout: default
 title: Comece Aqui
 nav_order: 2
 description: "Introdução à ferramenta para colaboradores testarem o sistema de gerenciamento de conteúdo usado no Arquivo."
-permalink: /playground/comece
+permalink: /comece
 ---
 
 # Comece Aqui

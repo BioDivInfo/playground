@@ -12,6 +12,6 @@ permalink: /
 Bem-vindo ao Playground do BioDivInfo, o repositório montado para receber o [Arquivo Arquivo Didático para Coleções Zoológicas](http://biodivinfo.github.io/).
 {: .fs-6 .fw-300 }
 
-[Comece aqui](/playground/comece){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Comece aqui](/comece){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
