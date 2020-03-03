@@ -9,7 +9,7 @@ permalink: /
 # BioDivInfo Playground
 {: .fs-9 }
 
-Bem-vindo ao Playground do BioDivInfo, o repositório montado para receber o [Arquivo Arquivo Didático para Coleções Zoológicas](http://biodivinfo.github.io/).
+Bem-vindo ao Playground do BioDivInfo, o repositório montado para receber o [Arquivo Didático para Coleções Zoológicas](http://biodivinfo.github.io/).
 {: .fs-6 .fw-300 }
 
 [Comece aqui](https://biodivinfo.github.io/playground/comece){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
