@@ -1,7 +1,7 @@
 ---
 layout: default
 title: O que é Bioinformática
-parent: Conceitos
+parent: Conceitos e definições
 nav_order: 2
 ---
 
