@@ -1,0 +1,17 @@
+{% include relBase.html %}
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"> {% if page.description %}
+  <meta name="Description" content="{{ page.description }}"> {% endif %}
+
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ relBase }}/assets/css/just-the-docs.css"> {% if site.ga_tracking != nil %}
+  <script async src="https://www.google-analytics.com/analytics.js"></script>
+  {% endif %} {% if site.search_enabled != nil %}
+  <script type="text/javascript" src="{{ relBase }}/assets/js/vendor/lunr.min.js"></script>
+  {% endif %}
+  <script type="text/javascript" src="{{ relBase }}/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>

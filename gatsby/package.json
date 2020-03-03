@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-theme-document-example",
+  "author": "Code Bushi",
+  "repository": "https://github.com/codebushi/gatsby-theme-document-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2.19.25",
+    "gatsby-theme-document": "1.0.8",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+<<<<<<< HEAD
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+=======
+>>>>>>> parent of a5fc0b2... adiciona gh-pages
+  }
+}
