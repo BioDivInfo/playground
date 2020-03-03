@@ -2,7 +2,7 @@
 author: Laura Rocha Prado
 layout: default
 title: Esse é um teste
-nav_exclude: true
+nav_exclude: false
 permalink: teste2
 ---
 Posso escrever o meu texto todo aqui, usando as ferramentas de edição disponíveis aqui acima.
