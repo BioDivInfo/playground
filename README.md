@@ -1,4 +1,4 @@
-# Gatsby Theme Document
+# BioDivInfo Playground
 
 Bem-vindo ao Playground do BioDivInfo, o repositório montado para receber o [Arquivo Arquivo Didático para Coleções Zoológicas](http://biodivinfo.github.io/).
 
