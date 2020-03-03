@@ -1,6 +1,6 @@
-title: Introdução à Informática para Biodiversidade
-baseurl: "/bioinformatica/"
-url: "https://arbolitoloco.github.io"
+title: BioDivInfo Playground
+baseurl: "/playground/"
+url: "https://biodivinfo.github.io"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -11,7 +11,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
     "Código no GitHub":
-      - "//github.com/arbolitoloco/bioinformatica/"
+      - "//github.com/biodivinfo/playground/"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: dark
