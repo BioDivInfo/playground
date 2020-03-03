@@ -3,7 +3,7 @@ layout: default
 title: Comece Aqui
 nav_order: 2
 description: "Introdução à ferramenta para colaboradores testarem o sistema de gerenciamento de conteúdo usado no Arquivo."
-permalink: /comece
+permalink: /playground/comece
 ---
 
 # Comece Aqui
@@ -16,9 +16,7 @@ Esse site foi pensado para ser estruturado em forma de e-book, com estrutura em 
 
 ## Navegação
 
-Em uma tela grande (computador, por exemplo), a navegação fica à esquerda. Em uma tela pequena (celular, por exemplo), a navegação fica condensada em um menu estilo "hambúrguer", no topo da tela.
-
-No canto superior direito há um ícone de solzinho, que alterna o tema do site entre quatro opções de cores, incluindo temas com cores escuras e temas com alto contraste para pessoas com baixa visão.
+Em uma tela grande (computador, por exemplo), a navegação fica à esquerda. Em uma tela pequena (celular, por exemplo), a navegação fica condensada em um link no topo da tela.
 
 Para demonstrar como é fácil contribuir com esse (e outros futuros) site, basta seguir a instruções a seguir.
 
