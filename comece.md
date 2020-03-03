@@ -24,6 +24,6 @@ Para demonstrar como é fácil contribuir com esse (e outros futuros) site, bast
 
 Os textos publicados aqui seguem um padrão de formatação específico.
 
-Para acessar o painel de submissão de textos, clique no botão "Login with Netlify Identity" [neste link](https://biodivinfo-playground.netlify.com/).
+Para acessar o painel de submissão de textos, clique no botão "Login with Netlify Identity" [neste link](https://biodivinfo-playground.netlify.com/admin).
 
 Cadastre uma conta nova ou faça login com sua conta Google ou GitHub.
