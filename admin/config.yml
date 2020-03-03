@@ -3,7 +3,7 @@
 backend:
   name: git-gateway # open-source API that acts as a proxy between authenticated users of site and repo
   branch: master # Branch to update (optional; defaults to master)
-  site_domain: bioinformatica.netlify.com
+  site_domain: biodivinfo-playground.netlify.com
 # Adds interface for drafting, reviewing, and approving posts
 publish_mode: editorial_workflow
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under assets/images/uploads
