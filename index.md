@@ -2,7 +2,7 @@
 layout: default
 title: Início
 nav_order: 1
-description: "Início"
+description: "Ferramenta para colaboradores testarem o sistema de gerenciamento de conteúdo usado no Arquivo."
 permalink: /
 ---
 
@@ -13,19 +13,6 @@ Bem-vindo ao Playground do BioDivInfo, o repositório montado para receber o [Ar
 {: .fs-6 .fw-300 }
 
 [Comece aqui](/docs/comece){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
----
-
-Licença de Uso
-
----
-title: ""
-description: "Ferramenta para colaboradores testarem o sistema de gerenciamento de conteúdo usado no Arquivo."
----
-
-Bem-vindo ao Playground do BioDivInfo, o repositório montado para receber o [Arquivo Arquivo Didático para Coleções Zoológicas](http://biodivinfo.github.io/).
-
-[Comece Aqui](/comece)
 
 Esse site foi pensado para ser estruturado em forma de e-book, com estrutura em capítulos.
 
