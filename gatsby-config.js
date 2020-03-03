@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/playground",
   siteMetadata: {
     title: `BioDivInfo Playground`,
     name: `Laura Rocha Prado`,

@@ -16,5 +16,8 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
+  },
+  "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   }
 }
