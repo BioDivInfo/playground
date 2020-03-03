@@ -2,7 +2,7 @@
 layout: default
 title: Um subcapítulo
 parent: capitulo2
-nav_order: 3
+nav_order: 2
 ---
 
 # Um subcapítulo
