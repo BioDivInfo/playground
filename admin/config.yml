@@ -16,7 +16,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Autor", name: "author", widget: "string"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Título do Capítulo", name: "title", widget: "string"}
-      - {label: "Ordem no menu", name: "nav_order", widget: "number"}
+      - {label: "Título do Capítulo", name: "title", widget: "string", required}
+      - {label: "Esconder do menu", name: "nav_exclude", widget: "boolean", default: true}
       - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required}
